@@ -1,0 +1,77 @@
+is_number
+is_basic_type
+number
+number
+JObject
+JObject
+JObject
+JObject
+JObject
+JObject
+JObject
+JObject call:[from_map_container] noreturn:[from_map_container]
+JObject call:[from_map_container] noreturn:[from_map_container]
+JObject call:[from_list_container] noreturn:[from_list_container]
+JObject call:[from_list_container] noreturn:[from_list_container]
+JObject call:[from_list_container] noreturn:[from_list_container]
+JObject call:[to_json] noreturn:[to_json]
+Dict call:[JObject] noreturn:[JObject]
+List call:[JObject] noreturn:[JObject]
+cast
+cast call:[data,size,string] noreturn:[string]
+cast
+cast
+cast
+cast
+cast
+cast
+cast
+cast call:[T,from_json,move] noreturn:[move]
+Value call:[runtime_error,string,to_string,value] noreturn:[runtime_error]
+Value call:[runtime_error,string,to_string,value] noreturn:[runtime_error]
+Value call:[runtime_error,string,to_string,value] noreturn:[runtime_error]
+Value call:[runtime_error,string,to_string,value] noreturn:[runtime_error]
+Value call:[return,runtime_error,string,to_string,value] noreturn:[runtime_error]
+Value call:[return,runtime_error,string,to_string,value] noreturn:[runtime_error]
+type
+push_back call:[JObject,push_back,runtime_error,string,to_string] noreturn:[runtime_error]
+push_back call:[JObject,push_back,runtime_error,string,to_string] noreturn:[runtime_error]
+pop_back call:[pop_back,runtime_error,string,to_string] noreturn:[runtime_error]
+has_key call:[data,end,find,runtime_error,size,string,to_string] noreturn:[end,runtime_error]
+get_from call:[JObject,move]
+get_from call:[JObject,move]
+get_from call:[JObject,move]
+get_from call:[JObject,move]
+get_from call:[JObject,move]
+get_to call:[data,size,string]
+get_to call:[data,size,string]
+get_to call:[insert] noreturn:[insert]
+get_to call:[insert] noreturn:[insert]
+get_to call:[push_back] noreturn:[push_back]
+get_from call:[name,runtime_error,string,to_json,to_string,typeid,what] noreturn:[runtime_error,to_json]
+get_from call:[JObject,move,name,runtime_error,string,to_string,typeid,what] noreturn:[move,runtime_error]
+get_from call:[JObject,move,name,runtime_error,string,to_string,typeid,what] noreturn:[move,runtime_error]
+get_to call:[from_json,name,runtime_error,string,to_string,typeid,what] noreturn:[from_json,runtime_error]
+get_to call:[move,name,runtime_error,string,to_string,typeid,what] noreturn:[move,runtime_error]
+get_to call:[name,runtime_error,string,to_string,typeid,what] noreturn:[runtime_error]
+at call:[data,length,runtime_error,string,to_string] noreturn:[runtime_error]
+size call:[runtime_error,size,string,to_string] noreturn:[runtime_error,size]
+from_list_container call:[JObject,begin,end,move,push_back] noreturn:[push_back]
+from_map_container call:[JObject,begin,end,move] noreturn:[move]
+FromJSON call:[FromJSON,move] noreturn:[move]
+FromFile call:[FromFile,from_json,runtime_error,string,to_string,type] noreturn:[from_json,runtime_error]
+ToJSON call:[JObject,to_string] noreturn:[to_string]
+ToFile call:[data,ofs,runtime_error,size,string,to_file,to_string] noreturn:[runtime_error,to_string]
+ToFile call:[JObject,ToFile,to_json] noreturn:[ToFile]
+init
+operator""_json call:[FromJSON] noreturn:[FromJSON]
+skip_comment global:[kNearbyLen] call:[compare,find,isspace,logic_error,string,substr,to_string,while] noreturn:[logic_error,while]
+get_next_token call:[isspace,logic_error,size,skip_comment,string,to_string,while] noreturn:[logic_error,skip_comment,while]
+is_esc_consume call:[return]
+parse global:[kNearbyLen] call:[JObject,get_next_token,logic_error,parse_bool,parse_dict,parse_list,parse_null,parse_number,parse_string,string,substr,to_string,while] noreturn:[logic_error,while]
+parse_null global:[kNearbyLen] call:[compare,logic_error,string,substr,to_string,while] noreturn:[logic_error,while]
+parse_number global:[kNearbyLen] call:[JObject,data,isdigit,logic_error,string,strtod,strtol,substr,to_string,while] noreturn:[JObject,logic_error,while]
+parse_bool global:[kNearbyLen] call:[compare,logic_error,string,substr,to_string,while] noreturn:[logic_error,while]
+parse_string global:[kNearbyLen] call:[find,is_esc_consume,logic_error,string,substr,to_string,while] noreturn:[logic_error,substr,while]
+parse_list global:[kNearbyLen] call:[get_next_token,logic_error,move,parse,push_back,string,substr,to_string,while] noreturn:[logic_error,move,while]
+parse_dict global:[kNearbyLen] call:[get_next_token,logic_error,move,parse,string,substr,to_string,while] noreturn:[logic_error,while]

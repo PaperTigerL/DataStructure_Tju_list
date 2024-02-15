@@ -1,0 +1,2 @@
+base64_encode global:[BASE64_CHARS] call:[push_back,size] noreturn:[push_back]
+base64_decode global:[BASE64_CHARS] call:[erase,find,push_back,size] noreturn:[erase,push_back]

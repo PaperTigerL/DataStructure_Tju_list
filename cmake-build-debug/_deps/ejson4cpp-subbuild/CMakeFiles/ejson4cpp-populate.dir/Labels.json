@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "D:/file/datastruct/cmake-build-debug/_deps/ejson4cpp-subbuild/CMakeFiles/ejson4cpp-populate"
+		},
+		{
+			"file" : "D:/file/datastruct/cmake-build-debug/_deps/ejson4cpp-subbuild/CMakeFiles/ejson4cpp-populate.rule"
+		},
+		{
+			"file" : "D:/file/datastruct/cmake-build-debug/_deps/ejson4cpp-subbuild/CMakeFiles/ejson4cpp-populate-complete.rule"
+		},
+		{
+			"file" : "D:/file/datastruct/cmake-build-debug/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-build.rule"
+		},
+		{
+			"file" : "D:/file/datastruct/cmake-build-debug/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-configure.rule"
+		},
+		{
+			"file" : "D:/file/datastruct/cmake-build-debug/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-download.rule"
+		},
+		{
+			"file" : "D:/file/datastruct/cmake-build-debug/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-install.rule"
+		},
+		{
+			"file" : "D:/file/datastruct/cmake-build-debug/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-mkdir.rule"
+		},
+		{
+			"file" : "D:/file/datastruct/cmake-build-debug/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-patch.rule"
+		},
+		{
+			"file" : "D:/file/datastruct/cmake-build-debug/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-test.rule"
+		},
+		{
+			"file" : "D:/file/datastruct/cmake-build-debug/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"ejson4cpp-populate"
+		],
+		"name" : "ejson4cpp-populate"
+	}
+}

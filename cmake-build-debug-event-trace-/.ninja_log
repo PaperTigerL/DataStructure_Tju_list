@@ -1,0 +1,23 @@
+# ninja log v5
+0	10	0	clean	26d5dd697d99486a
+3	301	7296791111678807	CMakeFiles/datastruct.dir/main.cpp.obj	a2b45b76752e6874
+2	322	7296791015348956	CMakeFiles/datastruct.dir/linearList.cpp.obj	6b07114d38f740bc
+8	762	7296708095090875	_deps/ejson4cpp-build/CMakeFiles/ejson.dir/src/ejson/base64.cc.obj	58806040fd1e309b
+1582	1884	7296708106308175	_deps/ejson4cpp-build/libejson.a	5662b99d932b8792
+12	1582	7296708103263955	_deps/ejson4cpp-build/CMakeFiles/ejson.dir/src/ejson/parser.cc.obj	c165e057822b1328
+16	1157	7296708099035445	_deps/ejson4cpp-build/CMakeFiles/ejson.dir/src/ejson/jobject.cc.obj	11cbdbf85d21c202
+302	388	7296791112507139	datastruct.exe	518f8b415facb05a
+1	98	7296793827504696	build.ninja	627bf8dc78da2786
+7	310	7296793896087363	CMakeFiles/datastruct.dir/main.cpp.obj	1653cbb86481c1d6
+3	321	7296793896197346	CMakeFiles/datastruct.dir/linearList.cpp.obj	d1937a90a7192be9
+321	407	7296793897010790	datastruct.exe	518f8b415facb05a
+2	308	7296794012015916	CMakeFiles/datastruct.dir/main.cpp.obj	1653cbb86481c1d6
+308	395	7296794012856578	datastruct.exe	518f8b415facb05a
+2	291	7296795582643639	CMakeFiles/datastruct.dir/main.cpp.obj	1653cbb86481c1d6
+292	378	7296795583475321	datastruct.exe	518f8b415facb05a
+3	305	7296798203466670	CMakeFiles/datastruct.dir/main.cpp.obj	1653cbb86481c1d6
+305	395	7296798204344594	datastruct.exe	518f8b415facb05a
+0	8	0	clean	26d5dd697d99486a
+6	335	7296798330740961	CMakeFiles/datastruct.dir/main.cpp.obj	1653cbb86481c1d6
+2	352	7296798330920943	CMakeFiles/datastruct.dir/linearList.cpp.obj	d1937a90a7192be9
+353	444	7296798331796137	datastruct.exe	518f8b415facb05a

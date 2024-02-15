@@ -1,0 +1,11 @@
+listNode
+print
+print
+sequenceList
+sequenceList
+addItem
+insertItem call:[addItem]
+deleteItem call:[locate]
+locate
+locate
+reverse

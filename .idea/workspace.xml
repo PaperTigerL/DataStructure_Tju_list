@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="datastruct" targetName="datastruct" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+      <configuration PROFILE_NAME="Debug-event-trace" ENABLED="true" CONFIG_NAME="Debug" GENERATION_OPTIONS="--profiling-format=google-trace --profiling-output=CMakeFiles\clion-event-trace.json" />
+      <configuration PROFILE_NAME="Debug-event-trace-覆盖率" ENABLED="true" CONFIG_NAME="Debug" GENERATION_OPTIONS="--profiling-format=google-trace --profiling-output=CMakeFiles\clion-event-trace.json -DCMAKE_CXX_FLAGS=--coverage -DCMAKE_C_FLAGS=--coverage" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="92ac38ff-ec06-475f-bf54-a8947b701f77" name="更改" comment="">
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-event-trace/_deps/ejson4cpp-src/doc/html/annotated.html" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-event-trace/_deps/ejson4cpp-src/doc/html/annotated.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-event-trace/_deps/ejson4cpp-src/doc/html/files.html" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-event-trace/_deps/ejson4cpp-src/doc/html/files.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-event-trace/_deps/ejson4cpp-src/doc/html/hierarchy.html" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-event-trace/_deps/ejson4cpp-src/doc/html/hierarchy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-event-trace/_deps/ejson4cpp-src/doc/html/namespaces.html" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-event-trace/_deps/ejson4cpp-src/doc/html/namespaces.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-event-trace/_deps/ejson4cpp-src/doc/html/navtree.js" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-event-trace/_deps/ejson4cpp-src/doc/html/navtree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug-event-trace/_deps/ejson4cpp-src/doc/html/structejson_1_1Parser.html" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug-event-trace/_deps/ejson4cpp-src/doc/html/structejson_1_1Parser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/_deps/ejson4cpp-src/doc/html/annotated.html" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/ejson4cpp-src/doc/html/annotated.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/_deps/ejson4cpp-src/doc/html/files.html" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/ejson4cpp-src/doc/html/files.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/_deps/ejson4cpp-src/doc/html/hierarchy.html" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/ejson4cpp-src/doc/html/hierarchy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/_deps/ejson4cpp-src/doc/html/namespaces.html" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/ejson4cpp-src/doc/html/namespaces.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/_deps/ejson4cpp-src/doc/html/navtree.js" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/ejson4cpp-src/doc/html/navtree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake-build-debug/_deps/ejson4cpp-src/doc/html/structejson_1_1Parser.html" beforeDir="false" afterPath="$PROJECT_DIR$/cmake-build-debug/_deps/ejson4cpp-src/doc/html/structejson_1_1Parser.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug/_deps/ejson4cpp-src/doc/html/annotated.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/build/x64-Debug/_deps/ejson4cpp-src/doc/html/annotated.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug/_deps/ejson4cpp-src/doc/html/files.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/build/x64-Debug/_deps/ejson4cpp-src/doc/html/files.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug/_deps/ejson4cpp-src/doc/html/hierarchy.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/build/x64-Debug/_deps/ejson4cpp-src/doc/html/hierarchy.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug/_deps/ejson4cpp-src/doc/html/namespaces.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/build/x64-Debug/_deps/ejson4cpp-src/doc/html/namespaces.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug/_deps/ejson4cpp-src/doc/html/navtree.js" beforeDir="false" afterPath="$PROJECT_DIR$/out/build/x64-Debug/_deps/ejson4cpp-src/doc/html/navtree.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/build/x64-Debug/_deps/ejson4cpp-src/doc/html/structejson_1_1Parser.html" beforeDir="false" afterPath="$PROJECT_DIR$/out/build/x64-Debug/_deps/ejson4cpp-src/doc/html/structejson_1_1Parser.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug-event-trace-覆盖率" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CMakeLists.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/out/build/x64-Debug/_deps/ejson4cpp-src" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/linearList.cpp" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2023" />
+    <option name="minorVersion" value="1.5" />
+  </component>
+  <component name="ProjectId" id="2cLs6IxUhnMjH8oFRGvIKVLh2Ib" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;TODO_SCOPE&quot;: &quot;所有位置&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;bf2320bf&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/file/datastruct&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;structure.view.defaults.are.configured&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="CMake 应用程序.datastruct">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake 应用程序.datastruct" />
+      <item itemvalue="CMake 调试.Data_Struct_List" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="92ac38ff-ec06-475f-bf54-a8947b701f77" name="更改" comment="" />
+      <created>1707902016684</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707902016684</updated>
+      <workItem from="1707902017688" duration="5195000" />
+      <workItem from="1707907236138" duration="22940000" />
+      <workItem from="1707965782994" duration="794000" />
+      <workItem from="1707967351267" duration="22000" />
+      <workItem from="1707967386892" duration="2147000" />
+      <workItem from="1707975200720" duration="1544000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticEditVcpkgJson value="false" />
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticFoundErrors value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="CMakeRunConfiguration">
+        <watch expression="list" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

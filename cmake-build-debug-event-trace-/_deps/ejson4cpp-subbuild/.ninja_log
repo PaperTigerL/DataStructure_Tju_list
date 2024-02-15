@@ -1,0 +1,21 @@
+# ninja log v5
+0	63	7296707899425371	ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-mkdir	d11e3947f3d4dc55
+0	63	7296707899425371	D:/file/datastruct/cmake-build-debug-event-trace-/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-mkdir	d11e3947f3d4dc55
+64	8600	7296707984790719	ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-download	d48bb7ccc6d44ca1
+64	8600	7296707984790719	D:/file/datastruct/cmake-build-debug-event-trace-/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-download	d48bb7ccc6d44ca1
+8600	17407	0	ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-update	b3a3a6feb37530a1
+8600	17407	0	D:/file/datastruct/cmake-build-debug-event-trace-/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-update	b3a3a6feb37530a1
+17408	17453	7296708073332198	ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-patch	587810deded409ba
+17408	17453	7296708073332198	D:/file/datastruct/cmake-build-debug-event-trace-/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-patch	587810deded409ba
+17453	17498	7296708073773566	ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-configure	adc663f287c37943
+17453	17498	7296708073773566	D:/file/datastruct/cmake-build-debug-event-trace-/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-configure	adc663f287c37943
+17498	17543	7296708074223567	ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-build	b40acb8258f7437b
+17498	17543	7296708074223567	D:/file/datastruct/cmake-build-debug-event-trace-/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-build	b40acb8258f7437b
+17543	17590	7296708074694449	ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-install	e9d5f7a7ee1ce5bb
+17543	17590	7296708074694449	D:/file/datastruct/cmake-build-debug-event-trace-/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-install	e9d5f7a7ee1ce5bb
+17590	17635	7296708075150141	ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-test	86cb7e9d2aa7221e
+17590	17635	7296708075150141	D:/file/datastruct/cmake-build-debug-event-trace-/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-test	86cb7e9d2aa7221e
+17635	17704	7296708075826751	CMakeFiles/ejson4cpp-populate-complete	3fbafbeb04270208
+17635	17704	7296708075826751	ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-done	3fbafbeb04270208
+17635	17704	7296708075826751	D:/file/datastruct/cmake-build-debug-event-trace-/_deps/ejson4cpp-subbuild/CMakeFiles/ejson4cpp-populate-complete	3fbafbeb04270208
+17635	17704	7296708075826751	D:/file/datastruct/cmake-build-debug-event-trace-/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/src/ejson4cpp-populate-stamp/ejson4cpp-populate-done	3fbafbeb04270208

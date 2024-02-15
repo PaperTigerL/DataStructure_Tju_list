@@ -1,0 +1,15 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=git
+command=D:/software/JetBrains/CLion 2023.1/bin/cmake/win/x64/bin/cmake.exe;-P;D:/file/datastruct/cmake-build-debug-event-trace/_deps/ejson4cpp-subbuild/ejson4cpp-populate-prefix/tmp/ejson4cpp-populate-gitclone.cmake
+source_dir=D:/file/datastruct/cmake-build-debug-event-trace/_deps/ejson4cpp-src
+work_dir=D:/file/datastruct/cmake-build-debug-event-trace/_deps
+repository=https://gitee.com/acking-you/ejson4cpp.git
+remote=origin
+init_submodules=TRUE
+recurse_submodules=--recursive
+submodules=
+CMP0097=NEW
+
